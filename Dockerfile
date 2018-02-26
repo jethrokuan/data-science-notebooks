@@ -1,6 +1,10 @@
 FROM jupyter/tensorflow-notebook
 
+ENV JUPYTER_PATH .:JUPYTER_PATH
+
 RUN conda install --quiet --yes \
+    'pandas' \
+    'feather-format' \
     'gensim' \
     'snowballstemmer' \
     'nltk' && \
