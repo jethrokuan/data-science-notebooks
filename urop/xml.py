@@ -20,3 +20,10 @@ class Proceeding2DataFrame:
     def process(self):
         self.parse(self.root)
         return pd.DataFrame(self.parsed)
+
+class ACMCorpus(object):
+    def __init__(self):
+        self.files = os.
+        
+    def __iter__(self):
+        
