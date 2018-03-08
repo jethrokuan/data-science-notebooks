@@ -6,7 +6,7 @@ import re
 import string
 
 punct = set(string.punctuation)
-# stops = stopwords.words("english")
+stops = stopwords.words("english")
 
 def is_noun(pos):
     """Returns true if tag is a noun, false otherwise.
@@ -26,13 +26,11 @@ def clean_text(raw_text):
     :rtype: [str]
 
     """
-    # lemmatizer = WordNetLemmatizer()
-    # text = re.sub(r"[^A-Za-z ]+", '', raw_text)
-    text = re.sub(r"[^A-Za-z ]+", '', raw_text).split()
-    # tokens = nltk.word_tokenize(text.lower())
-    # tokens = [lemmatizer.lemmatize(word) for word in words if word not in punct and len(word) > 1]
-    # tags = nltk.pos_tag(tokens)
-    # nouns = [word for word,pos in tags if is_noun(pos)]
-    # meaningful_nouns = [w for w in nouns if not w in stops]
-    # return " ".join(meaningful_nouns)
-    return " ".join(text)
+    lemmatizer = WordNetLemmatizer()
+    text = re.sub(r"[^A-Za-z ]+", '', raw_text)
+    tokens = nltk.word_tokenize(text.lower())
+    tokens = [lemmatizer.lemmatize(token) for token in tokens if token not in punct and len(token) > 1]
+    tags = nltk.pos_tag(tokens)
+    nouns = [word for word,pos in tags if is_noun(pos)]
+    meaningful_nouns = [w for w in nouns if not w in stops]
+    return " ".join(meaningful_nouns)

@@ -6,24 +6,33 @@ import logging
 
 from urop.nlp import clean_text
 
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+ARTICLE_MAP = {
+    "article_id": "article_id",
+    "abstract": "abstract",
+    "title": "title",
+    "rawtext": 'fulltext/ft_body'
+}
+
+def get_node_part(node, search, default=""):
+    """Get text part in node.
+
+    :param node: XML node
+    :param search: search time to pass to XML node
+    :param default: default text to return in case of failure
+    :returns: XML node text
+    :rtype: str
+
+    """
+    elem = node.find(search)
+    if elem is not None:
+        return elem.text
+    else:
+        return default
 
 def article_node_to_element(node):
     element = dict()
-    element["article_id"] = node.find("article_id").text
-    element["title"] = node.find("title").text
-
-    # Parse abstract, if any
-    element["abstract"] = ""
-    abstract = node.find("abstract")
-    if abstract is not None:
-        element["abstract"] = abstract.text
-
-    # Parse fulltext, if any
-    fulltext = node.find("fulltext/ft_body")
-    element["rawtext"] = ""
-    if fulltext is not None:
-        element["rawtext"] = fulltext.text
+    for k, v in ARTICLE_MAP.items():
+        element[k] = get_node_part(node, v)
 
     return element
 
