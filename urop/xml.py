@@ -29,45 +29,20 @@ def get_node_part(node, search, default=""):
     else:
         return default
 
-def article_node_to_element(node):
-    element = dict()
-    for k, v in ARTICLE_MAP.items():
-        element[k] = get_node_part(node, v)
+class ACMCorpus(object):
+    def __init__(self, files):
+        self.files = files
 
-    return element
-
-def xml_files_to_elements(files):
-    for f in files:
-        logging.info(f'Parsing {f}')
+    def __iter__(self):
         try:
-            root = ET.parse(f).getroot()
-            for node in root.iter('article_rec'):
-                yield(article_node_to_element(node))
+            for f in self.files:
+                logging.info(f'Parsing {f}')
+                root = ET.parse(f).getroot()
+                for node in root.iter('article_rec'):
+                    element = dict()
+                    for k, v in ARTICLE_MAP.items():
+                        element[k] = get_node_part(node, v)
+                    cleaned_text = clean_text(element["rawtext"])
+                    yield(cleaned_text)
         except:
             logging.info(f'Unable to parse {f}')
-
-
-def elements_to_cleaned_text(elements):
-    """Returns a generator for cleaned_text from generator of elements.
-
-    :param f: XML file
-    :returns: text generator
-    :rtype: generator
-
-    """
-    for element in elements:
-        yield(clean_text(element["rawtext"]))
-
-
-class ACMCorpus(object):
-    def __init__(self, directory):
-        self.files = glob.glob(f'{directory}/*.xml')
-        
-    def __iter__(self):
-        elements = xml_files_to_elements(self.files)
-        return elements_to_cleaned_text(elements)
-
-
-
-def build_dictionary(files):
-    return corpora.Dictionary()

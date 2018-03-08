@@ -33,4 +33,4 @@ def clean_text(raw_text):
     tags = nltk.pos_tag(tokens)
     nouns = [word for word,pos in tags if is_noun(pos)]
     meaningful_nouns = [w for w in nouns if not w in stops]
-    return " ".join(meaningful_nouns)
+    return meaningful_nouns
