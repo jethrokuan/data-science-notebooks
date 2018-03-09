@@ -42,7 +42,6 @@ class ACMCorpus(object):
                     element = dict()
                     for k, v in ARTICLE_MAP.items():
                         element[k] = get_node_part(node, v)
-                    cleaned_text = clean_text(element["rawtext"])
-                    yield(cleaned_text)
+                    yield (element["rawtext"])
         except:
             logging.info(f'Unable to parse {f}')
