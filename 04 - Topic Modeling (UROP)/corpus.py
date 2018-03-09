@@ -26,4 +26,4 @@ dct.filter_extremes(no_below=3, no_above=0.5)
 dct.save(f'{PATH}/dictionary.pkl')
 
 corpus = [dct.doc2bow(text) for text in clean_texts]
-MmCorpus.save_corpus(f'{PATH}/corpus.mm', corpus)
+MmCorpus.serialize(f'{PATH}/corpus.mm', corpus)
