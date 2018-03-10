@@ -32,5 +32,5 @@ def clean_text(raw_text):
     tokens = [lemmatizer.lemmatize(token) for token in tokens if token not in punct and len(token) > 1]
     tags = nltk.pos_tag(tokens)
     nouns = [word for word,pos in tags if is_noun(pos)]
-    meaningful_nouns = [w for w in nouns if not w in stops]
+    meaningful_nouns = [w for w in nouns if len(w) > 2 and not w in stops]
     return meaningful_nouns

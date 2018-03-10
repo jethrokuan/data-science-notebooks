@@ -1,0 +1,252 @@
+[I 22:51:20.979 LabApp] JupyterLab alpha preview extension loaded from /home/jethro/anaconda3/lib/python3.6/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 22:51:20.980 LabApp] Running the core application with no additional extensions or settings
+[I 22:51:20.983 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 22:51:20.983 LabApp] 0 active kernels 
+[I 22:51:20.983 LabApp] The Jupyter Notebook is running at: http://localhost:8888/
+[I 22:51:20.983 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 22:51:40.668 LabApp] 302 GET / (::1) 0.35ms
+[I 22:53:37.457 LabApp] Creating new notebook in /
+[I 22:53:38.103 LabApp] Kernel started: 824dea23-0eed-4284-879c-59d23448d594
+[I 22:53:38.699 LabApp] Adapting to protocol v5.1 for kernel 824dea23-0eed-4284-879c-59d23448d594
+[I 22:55:38.267 LabApp] Saving file at /02 - Science News Model Comparisons.ipynb
+[I 00:51:52.321 LabApp] 302 GET / (::1) 0.29ms
+[I 00:51:54.608 LabApp] Adapting to protocol v5.1 for kernel 824dea23-0eed-4284-879c-59d23448d594
+[I 10:25:13.573 LabApp] 302 GET / (::1) 2.08ms
+[I 10:25:15.546 LabApp] Adapting to protocol v5.1 for kernel 824dea23-0eed-4284-879c-59d23448d594
+[I 10:25:42.597 LabApp] 302 GET / (::1) 0.94ms
+[I 10:25:44.800 LabApp] Adapting to protocol v5.1 for kernel 824dea23-0eed-4284-879c-59d23448d594
+[W 10:25:50.272 LabApp] Notebook 04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb is not trusted
+[I 10:26:01.753 LabApp] Kernel started: 3f3b8ef3-4394-448f-aa0e-0e438eb4b9df
+[I 10:26:02.931 LabApp] Adapting to protocol v5.1 for kernel 3f3b8ef3-4394-448f-aa0e-0e438eb4b9df
+[I 10:27:13.268 LabApp] Saving file at /04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb
+[W 10:27:13.270 LabApp] Saving untrusted notebook 04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb
+[W 10:27:23.075 LabApp] Notebook 04 - Topic Modeling (UROP)/1 - LDA Model.ipynb is not trusted
+[I 10:27:25.606 LabApp] Kernel started: 28222ab0-4c97-46d2-8557-8b93d66f50b5
+[I 10:27:26.150 LabApp] Adapting to protocol v5.1 for kernel 28222ab0-4c97-46d2-8557-8b93d66f50b5
+[I 10:27:53.104 LabApp] KernelRestarter: restarting kernel (1/5)
+kernel 824dea23-0eed-4284-879c-59d23448d594 restarted
+[I 10:27:58.752 LabApp] KernelRestarter: restarting kernel (1/5)
+kernel 3f3b8ef3-4394-448f-aa0e-0e438eb4b9df restarted
+[I 10:28:01.606 LabApp] KernelRestarter: restarting kernel (1/5)
+kernel 28222ab0-4c97-46d2-8557-8b93d66f50b5 restarted
+[C 10:28:29.312 LabApp] received signal 15, stopping
+[I 10:28:29.313 LabApp] Shutting down kernels
+[I 10:28:29.616 LabApp] Kernel shutdown: 824dea23-0eed-4284-879c-59d23448d594
+[I 10:28:29.617 LabApp] Kernel shutdown: 3f3b8ef3-4394-448f-aa0e-0e438eb4b9df
+[I 10:28:29.617 LabApp] Kernel shutdown: 28222ab0-4c97-46d2-8557-8b93d66f50b5
+[I 10:29:03.865 LabApp] JupyterLab beta preview extension loaded from /home/jethro/anaconda3/envs/urop/lib/python3.6/site-packages/jupyterlab
+[I 10:29:03.865 LabApp] JupyterLab application directory is /home/jethro/anaconda3/envs/urop/share/jupyter/lab
+[I 10:29:03.870 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 10:29:03.870 LabApp] 0 active kernels
+[I 10:29:03.870 LabApp] The Jupyter Notebook is running at:
+[I 10:29:03.870 LabApp] http://localhost:8888/
+[I 10:29:03.870 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:29:07.642 LabApp] 302 GET /lab? (::1) 2.98ms
+[I 10:29:13.702 LabApp] 302 POST /login?next=%2Flab%3F (::1) 2.54ms
+[W 10:29:17.755 LabApp] Could not determine jupyterlab build status without nodejs
+[W 10:29:21.680 LabApp] Notebook 04 - Topic Modeling (UROP)/1 - LDA Model.ipynb is not trusted
+[I 10:29:22.735 LabApp] Kernel started: 01fed7ef-e535-42fd-82e4-fa55c8b8bfb3
+[I 10:29:23.241 LabApp] Adapting to protocol v5.1 for kernel 01fed7ef-e535-42fd-82e4-fa55c8b8bfb3
+[I 10:29:23.343 LabApp] Adapting to protocol v5.1 for kernel 01fed7ef-e535-42fd-82e4-fa55c8b8bfb3
+[W 10:34:47.237 LabApp] Notebook 04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb is not trusted
+[I 10:34:48.180 LabApp] Kernel started: 81ff2de1-9adc-4eda-8204-03945adc575b
+[I 10:34:48.496 LabApp] Adapting to protocol v5.1 for kernel 81ff2de1-9adc-4eda-8204-03945adc575b
+[I 10:38:10.643 LabApp] Saving file at /04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb
+[W 10:38:10.644 LabApp] Notebook 04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb is not trusted
+[I 10:39:25.442 LabApp] Saving file at /04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb
+[I 10:40:23.729 LabApp] Saving file at /04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb
+[I 10:40:27.664 LabApp] Starting buffering for 81ff2de1-9adc-4eda-8204-03945adc575b:00f9e96881761837a3d99449b7eb7754
+[I 10:40:27.665 LabApp] Starting buffering for 01fed7ef-e535-42fd-82e4-fa55c8b8bfb3:59fb0044c389e24e729ea0f47a56f925
+[I 10:41:06.369 LabApp] 302 GET / (::1) 1.09ms
+[W 10:41:07.244 LabApp] Could not determine jupyterlab build status without nodejs
+[W 10:41:07.519 LabApp] 404 GET /api/contents/04%20-%20Topic%20Modeling%20(UROP)/0%20-%20Data%20Processing.nbconvert.ipynb?content=0&1520649406176 (::1): No such file or directory: 04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb
+[W 10:41:07.519 LabApp] No such file or directory: 04 - Topic Modeling (UROP)/0 - Data Processing.nbconvert.ipynb
+[W 10:41:07.520 LabApp] 404 GET /api/contents/04%20-%20Topic%20Modeling%20(UROP)/0%20-%20Data%20Processing.nbconvert.ipynb?content=0&1520649406176 (::1) 2.66ms referer=http://localhost:8888/lab?
+[I 10:41:07.560 LabApp] Adapting to protocol v5.1 for kernel 81ff2de1-9adc-4eda-8204-03945adc575b
+[W 10:41:07.854 LabApp] Notebook 04 - Topic Modeling (UROP)/1 - LDA Model.ipynb is not trusted
+[I 10:41:08.592 LabApp] Starting buffering for 81ff2de1-9adc-4eda-8204-03945adc575b:d1f089f5313549f9a6ffb04fcd9ad1a4
+[I 10:41:09.071 LabApp] Adapting to protocol v5.1 for kernel 01fed7ef-e535-42fd-82e4-fa55c8b8bfb3
+[I 10:41:12.689 LabApp] Kernel started: adab284a-b0b8-4ef1-ae40-23716199f71f
+[I 10:41:13.038 LabApp] Adapting to protocol v5.1 for kernel adab284a-b0b8-4ef1-ae40-23716199f71f
+[I 10:41:33.671 LabApp] Saving file at /04 - Topic Modeling (UROP)/0 - Data Processing.ipynb
+[I 10:55:54.031 LabApp] Creating new directory in /04 - Topic Modeling (UROP)
+[I 10:55:59.112 LabApp] Creating new notebook in /04 - Topic Modeling (UROP)/nips-papers
+[I 10:56:00.140 LabApp] Kernel started: 3a2b06df-63ef-4fe7-b529-835abd99cd10
+[I 10:56:00.518 LabApp] Adapting to protocol v5.1 for kernel 3a2b06df-63ef-4fe7-b529-835abd99cd10
+[I 10:57:56.479 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 11:01:39.964 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 11:03:59.424 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 11:14:05.915 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 14:49:09.818 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 14:49:13.659 LabApp] Creating new notebook in /04 - Topic Modeling (UROP)/nips-papers
+[I 14:49:14.377 LabApp] Kernel started: 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 14:49:14.874 LabApp] Adapting to protocol v5.1 for kernel 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[W 14:49:31.230 LabApp] 400 GET /api/contents/04%20-%20Topic%20Modeling%20(UROP)/nips-papers/timeseq.lst?format=text&type=file&content=1&1520664309617 (::1): /home/jethro/data-science-playground/04 - Topic Modeling (UROP)/nips-papers/timeseq.lst is not UTF-8 encoded
+[W 14:49:31.231 LabApp] /home/jethro/data-science-playground/04 - Topic Modeling (UROP)/nips-papers/timeseq.lst is not UTF-8 encoded
+[W 14:49:31.232 LabApp] 400 GET /api/contents/04%20-%20Topic%20Modeling%20(UROP)/nips-papers/timeseq.lst?format=text&type=file&content=1&1520664309617 (::1) 3.14ms referer=http://localhost:8888/lab?
+[I 15:03:13.595 LabApp] Saving file at /urop/nlp.py
+[I 15:04:13.130 LabApp] Saving file at /urop/nlp.py
+[I 15:04:36.835 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 15:11:17.379 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 15:11:22.471 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 15:23:33.089 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[I 15:23:57.458 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 15:24:06.082 LabApp] Saving file at /04 - Topic Modeling (UROP)/1 - LDA Model.ipynb
+[W 15:24:06.083 LabApp] Notebook 04 - Topic Modeling (UROP)/1 - LDA Model.ipynb is not trusted
+[I 15:28:33.935 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 15:31:15.953 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 15:43:48.005 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 16:04:57.988 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 16:05:03.858 LabApp] Creating new notebook in /urop
+[I 16:05:04.547 LabApp] Kernel started: d6965445-8ebd-4408-9a1c-2808f6728a24
+[I 16:05:04.922 LabApp] Adapting to protocol v5.1 for kernel d6965445-8ebd-4408-9a1c-2808f6728a24
+[I 16:05:10.213 LabApp] Kernel shutdown: d6965445-8ebd-4408-9a1c-2808f6728a24
+[W 16:05:10.275 LabApp] delete /urop/Untitled.ipynb
+[I 16:05:21.614 LabApp] Creating new notebook in /04 - Topic Modeling (UROP)/nips-papers
+[I 16:05:22.189 LabApp] Kernel started: e23d9ffd-b8a2-4d3d-8b79-2dbc8cc003bd
+[I 16:05:22.494 LabApp] Adapting to protocol v5.1 for kernel e23d9ffd-b8a2-4d3d-8b79-2dbc8cc003bd
+[I 16:05:32.207 LabApp] Adapting to protocol v5.1 for kernel 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 16:08:58.808 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/0 - Data Exploration.ipynb
+[W 16:09:06.406 LabApp] delete /04 - Topic Modeling (UROP)/nips-papers/timeseq.lst
+[W 16:15:31.931 LabApp] delete /04 - Topic Modeling (UROP)/nips-papers/dtm_release
+[W 16:15:36.100 LabApp] delete /04 - Topic Modeling (UROP)/nips-papers/dtm_release-0.8.tgz
+[I 16:16:57.760 LabApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 16:19:10.860 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 16:20:06.119 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 16:20:21.264 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 16:26:57.599 LabApp] Kernel interrupted: e23d9ffd-b8a2-4d3d-8b79-2dbc8cc003bd
+[I 16:38:26.752 LabApp] Creating new file in /utils
+[I 16:38:34.048 LabApp] Saving file at /utils/untitled.txt
+[I 16:38:38.041 LabApp] Saving file at /utils/untitled.txt
+[I 16:43:48.528 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 16:43:54.392 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 16:44:01.528 LabApp] Starting buffering for e23d9ffd-b8a2-4d3d-8b79-2dbc8cc003bd:a152a00ed9148e78387aa7b6ebe9f66c
+[I 16:44:06.562 LabApp] Kernel restarted: e23d9ffd-b8a2-4d3d-8b79-2dbc8cc003bd
+[I 16:44:07.010 LabApp] Adapting to protocol v5.1 for kernel e23d9ffd-b8a2-4d3d-8b79-2dbc8cc003bd
+[I 16:44:07.011 LabApp] Restoring connection for e23d9ffd-b8a2-4d3d-8b79-2dbc8cc003bd:a152a00ed9148e78387aa7b6ebe9f66c
+[I 16:44:21.735 LabApp] Saving file at /utils/timeit.py
+[I 16:44:46.301 LabApp] Saving file at /utils/timeit.py
+[I 16:51:10.734 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 16:51:23.460 LabApp] Saving file at /utils/timeit.py
+[I 16:51:29.062 LabApp] Saving file at /utils/timeit.py
+[I 16:51:45.559 LabApp] Kernel interrupted: 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 16:51:51.137 LabApp] Starting buffering for 0f9a5bd9-3f5d-4186-8663-b722f846c1bf:ad601bf0b5c9e400b9ce0c9fb2236f4b
+[I 16:51:56.220 LabApp] Kernel restarted: 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 16:51:56.671 LabApp] Adapting to protocol v5.1 for kernel 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 16:51:56.671 LabApp] Discarding 14 buffered messages for 0f9a5bd9-3f5d-4186-8663-b722f846c1bf:ad601bf0b5c9e400b9ce0c9fb2236f4b
+[I 16:51:56.825 LabApp] Adapting to protocol v5.1 for kernel 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 16:52:04.013 LabApp] Saving file at /utils/timeit.py
+[I 16:52:06.416 LabApp] Saving file at /utils/timeit.py
+[I 16:52:11.962 LabApp] Starting buffering for 0f9a5bd9-3f5d-4186-8663-b722f846c1bf:ad601bf0b5c9e400b9ce0c9fb2236f4b
+[I 16:52:12.175 LabApp] Kernel restarted: 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 16:52:12.579 LabApp] Adapting to protocol v5.1 for kernel 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 16:52:12.580 LabApp] Discarding 3 buffered messages for 0f9a5bd9-3f5d-4186-8663-b722f846c1bf:ad601bf0b5c9e400b9ce0c9fb2236f4b
+[I 16:52:12.703 LabApp] Adapting to protocol v5.1 for kernel 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 16:52:19.911 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 16:53:52.880 LabApp] EOF on FD 97; stopping reading
+[I 16:53:52.980 LabApp] Terminal 1 closed
+Websocket closed
+[I 16:53:56.593 LabApp] Kernel shutdown: 01fed7ef-e535-42fd-82e4-fa55c8b8bfb3
+[I 16:53:57.732 LabApp] Kernel shutdown: 81ff2de1-9adc-4eda-8204-03945adc575b
+[I 16:53:57.934 LabApp] Kernel shutdown: adab284a-b0b8-4ef1-ae40-23716199f71f
+[I 16:53:59.645 LabApp] Kernel shutdown: 3a2b06df-63ef-4fe7-b529-835abd99cd10
+[I 16:54:05.297 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 17:14:21.977 LabApp] Kernel shutdown: e23d9ffd-b8a2-4d3d-8b79-2dbc8cc003bd
+[I 17:14:26.009 LabApp] Kernel started: 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 17:14:26.319 LabApp] Adapting to protocol v5.1 for kernel 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 17:14:38.931 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[W 17:14:53.449 LabApp] delete /04 - Topic Modeling (UROP)/nips-papers/dtm-linux64
+--2018-03-10 17:14:54--  https://github.com/magsilva/dtm/raw/master/bin/dtm-linux64
+Resolving github.com (github.com)... 192.30.253.113, 192.30.253.112
+Connecting to github.com (github.com)|192.30.253.113|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://raw.githubusercontent.com/magsilva/dtm/master/bin/dtm-linux64 [following]
+--2018-03-10 17:14:55--  https://raw.githubusercontent.com/magsilva/dtm/master/bin/dtm-linux64
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.8.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.8.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3601176 (3.4M) [application/octet-stream]
+Saving to: ‘dtm-linux64’
+
+     0K .......... .......... .......... .......... ..........  1% 7.89M 0s
+    50K .......... .......... .......... .......... ..........  2% 12.2M 0s
+   100K .......... .......... .......... .......... ..........  4% 15.4M 0s
+   150K .......... .......... .......... .......... ..........  5% 10.7M 0s
+   200K .......... .......... .......... .......... ..........  7% 16.7M 0s
+   250K .......... .......... .......... .......... ..........  8% 16.0M 0s
+   300K .......... .......... .......... .......... ..........  9% 27.9M 0s
+   350K .......... .......... .......... .......... .......... 11% 9.51M 0s
+   400K .......... .......... .......... .......... .......... 12% 15.4M 0s
+   450K .......... .......... .......... .......... .......... 14% 30.9M 0s
+   500K .......... .......... .......... .......... .......... 15% 19.8M 0s
+   550K .......... .......... .......... .......... .......... 17% 21.8M 0s
+   600K .......... .......... .......... .......... .......... 18% 24.8M 0s
+   650K .......... .......... .......... .......... .......... 19% 16.0M 0s
+   700K .......... .......... .......... .......... .......... 21% 17.6M 0s
+   750K .......... .......... .......... .......... .......... 22% 30.7M 0s
+   800K .......... .......... .......... .......... .......... 24% 16.5M 0s
+   850K .......... .......... .......... .......... .......... 25% 21.4M 0s
+   900K .......... .......... .......... .......... .......... 27% 43.0M 0s
+   950K .......... .......... .......... .......... .......... 28% 17.1M 0s
+  1000K .......... .......... .......... .......... .......... 29% 26.5M 0s
+  1050K .......... .......... .......... .......... .......... 31% 30.6M 0s
+  1100K .......... .......... .......... .......... .......... 32% 32.2M 0s
+  1150K .......... .......... .......... .......... .......... 34% 23.1M 0s
+  1200K .......... .......... .......... .......... .......... 35% 37.0M 0s
+  1250K .......... .......... .......... .......... .......... 36% 24.6M 0s
+  1300K .......... .......... .......... .......... .......... 38% 31.6M 0s
+  1350K .......... .......... .......... .......... .......... 39% 31.7M 0s
+  1400K .......... .......... .......... .......... .......... 41% 30.7M 0s
+  1450K .......... .......... .......... .......... .......... 42% 24.7M 0s
+  1500K .......... .......... .......... .......... .......... 44% 26.7M 0s
+  1550K .......... .......... .......... .......... .......... 45% 26.2M 0s
+  1600K .......... .......... .......... .......... .......... 46% 48.7M 0s
+  1650K .......... .......... .......... .......... .......... 48% 33.8M 0s
+  1700K .......... .......... .......... .......... .......... 49% 39.2M 0s
+  1750K .......... .......... .......... .......... .......... 51% 23.2M 0s
+  1800K .......... .......... .......... .......... .......... 52% 69.9M 0s
+  1850K .......... .......... .......... .......... .......... 54% 46.5M 0s
+  1900K .......... .......... .......... .......... .......... 55% 24.5M 0s
+  1950K .......... .......... .......... .......... .......... 56% 43.3M 0s
+  2000K .......... .......... .......... .......... .......... 58% 27.3M 0s
+  2050K .......... .......... .......... .......... .......... 59% 52.6M 0s
+  2100K .......... .......... .......... .......... .......... 61% 42.1M 0s
+  2150K .......... .......... .......... .......... .......... 62% 29.0M 0s
+  2200K .......... .......... .......... .......... .......... 63% 35.9M 0s
+  2250K .......... .......... .......... .......... .......... 65% 28.2M 0s
+  2300K .......... .......... .......... .......... .......... 66% 53.4M 0s
+  2350K .......... .......... .......... .......... .......... 68% 37.7M 0s
+  2400K .......... .......... .......... .......... .......... 69% 27.7M 0s
+  2450K .......... .......... .......... .......... .......... 71% 49.0M 0s
+  2500K .......... .......... .......... .......... .......... 72% 25.3M 0s
+  2550K .......... .......... .......... .......... .......... 73% 44.5M 0s
+  2600K .......... .......... .......... .......... .......... 75% 42.6M 0s
+  2650K .......... .......... .......... .......... .......... 76% 40.3M 0s
+  2700K .......... .......... .......... .......... .......... 78% 39.5M 0s
+  2750K .......... .......... .......... .......... .......... 79% 32.1M 0s
+  2800K .......... .......... .......... .......... .......... 81% 40.0M 0s
+  2850K .......... .......... .......... .......... .......... 82% 55.9M 0s
+  2900K .......... .......... .......... .......... .......... 83% 31.2M 0s
+  2950K .......... .......... .......... .......... .......... 85% 37.5M 0s
+  3000K .......... .......... .......... .......... .......... 86% 41.9M 0s
+  3050K .......... .......... .......... .......... .......... 88% 44.6M 0s
+  3100K .......... .......... .......... .......... .......... 89% 48.5M 0s
+  3150K .......... .......... .......... .......... .......... 90% 27.4M 0s
+  3200K .......... .......... .......... .......... .......... 92% 54.2M 0s
+  3250K .......... .......... .......... .......... .......... 93% 37.4M 0s
+  3300K .......... .......... .......... .......... .......... 95% 54.7M 0s
+  3350K .......... .......... .......... .......... .......... 96% 25.8M 0s
+  3400K .......... .......... .......... .......... .......... 98% 56.3M 0s
+  3450K .......... .......... .......... .......... .......... 99% 42.5M 0s
+  3500K .......... ......                                     100%  112M=0.1s
+
+2018-03-10 17:14:56 (26.6 MB/s) - ‘dtm-linux64’ saved [3601176/3601176]
+
+[I 17:15:10.537 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 17:16:47.706 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 17:16:49.582 LabApp] Starting buffering for 0f9a5bd9-3f5d-4186-8663-b722f846c1bf:ad601bf0b5c9e400b9ce0c9fb2236f4b
+[I 17:16:49.583 LabApp] Starting buffering for 82a91a80-b219-4c0d-8ef5-e3af542112fa:598002763825fe8da0c545c742d8d66d

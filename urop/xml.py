@@ -34,14 +34,15 @@ class ACMCorpus(object):
         self.files = files
 
     def __iter__(self):
-        try:
-            for f in self.files:
-                logging.info(f'Parsing {f}')
+        for f in self.files:
+            logging.info(f'Parsing {f}')
+            try:
                 root = ET.parse(f).getroot()
-                for node in root.iter('article_rec'):
-                    element = dict()
-                    for k, v in ARTICLE_MAP.items():
-                        element[k] = get_node_part(node, v)
-                    yield (element["rawtext"])
-        except:
-            logging.info(f'Unable to parse {f}')
+            except:
+                logging.info(f'Unable to parse {f}')
+                continue
+            for node in root.iter('article_rec'):
+                element = dict()
+                for k, v in ARTICLE_MAP.items():
+                    element[k] = get_node_part(node, v)
+                yield (element["rawtext"])
