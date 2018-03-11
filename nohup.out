@@ -250,3 +250,72 @@ Saving to: ‘dtm-linux64’
 [I 17:16:47.706 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
 [I 17:16:49.582 LabApp] Starting buffering for 0f9a5bd9-3f5d-4186-8663-b722f846c1bf:ad601bf0b5c9e400b9ce0c9fb2236f4b
 [I 17:16:49.583 LabApp] Starting buffering for 82a91a80-b219-4c0d-8ef5-e3af542112fa:598002763825fe8da0c545c742d8d66d
+[I 21:12:33.225 LabApp] 302 GET / (::1) 1.04ms
+[W 21:13:12.385 LabApp] Could not determine jupyterlab build status without nodejs
+[I 21:13:13.221 LabApp] Adapting to protocol v5.1 for kernel 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 21:13:13.661 LabApp] Starting buffering for 82a91a80-b219-4c0d-8ef5-e3af542112fa:0a35dbbc354211fe8bf35ca56a4bf5a2
+[I 21:13:20.316 LabApp] Adapting to protocol v5.1 for kernel 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 21:13:34.468 LabApp] Adapting to protocol v5.1 for kernel 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 21:18:19.024 LabApp] Kernel interrupted: 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 21:18:21.298 LabApp] Starting buffering for 82a91a80-b219-4c0d-8ef5-e3af542112fa:8d468510060df3e809b7ab5e1dc1db29
+[I 21:18:21.629 LabApp] Kernel restarted: 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 21:18:22.619 LabApp] Adapting to protocol v5.1 for kernel 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 21:18:22.620 LabApp] Discarding 3 buffered messages for 82a91a80-b219-4c0d-8ef5-e3af542112fa:8d468510060df3e809b7ab5e1dc1db29
+[I 21:18:22.803 LabApp] Adapting to protocol v5.1 for kernel 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 21:25:22.496 LabApp] Creating new directory in /
+[I 21:25:26.650 LabApp] Kernel started: 72a45d8d-43e1-4e9d-8ccf-fd30d0e412a8
+[I 21:25:27.064 LabApp] Adapting to protocol v5.1 for kernel 72a45d8d-43e1-4e9d-8ccf-fd30d0e412a8
+[I 21:25:31.460 LabApp] Kernel shutdown: 72a45d8d-43e1-4e9d-8ccf-fd30d0e412a8
+[I 21:25:49.524 LabApp] Creating new file in /models
+[I 21:26:01.023 LabApp] Saving file at /models/ctmmodel.py
+[I 21:26:23.308 LabApp] Creating new file in /models
+[I 21:26:31.657 LabApp] Saving file at /models/__init__.py
+[I 21:27:00.835 LabApp] Creating new notebook in /04 - Topic Modeling (UROP)/nips-papers
+[I 21:27:01.414 LabApp] Kernel started: b9196664-90de-4abf-9db9-f7c55a6f5d43
+[I 21:27:01.893 LabApp] Adapting to protocol v5.1 for kernel b9196664-90de-4abf-9db9-f7c55a6f5d43
+[I 21:27:05.155 LabApp] Kernel shutdown: b9196664-90de-4abf-9db9-f7c55a6f5d43
+[W 21:27:05.209 LabApp] delete /04 - Topic Modeling (UROP)/nips-papers/Untitled.ipynb
+[I 21:27:07.464 LabApp] Copying 04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb to /04 - Topic Modeling (UROP)/nips-papers
+[I 21:27:20.724 LabApp] Kernel started: 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 21:27:21.139 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 21:28:29.601 LabApp] Saving file at /models/ctmmodel.py
+[I 21:29:00.986 LabApp] Saving file at /models/ctmmodel.py
+[I 21:30:56.072 LabApp] Saving file at /models/ctmmodel.py
+[I 21:31:17.890 LabApp] Saving file at /models/ctmmodel.py
+[I 21:51:51.637 LabApp] Kernel interrupted: 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 21:51:58.046 LabApp] Kernel interrupted: 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 21:52:38.287 LabApp] Adapting to protocol v5.1 for kernel 0f9a5bd9-3f5d-4186-8663-b722f846c1bf
+[I 21:53:29.476 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 21:53:41.404 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 21:57:12.580 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 21:57:27.043 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 21:58:20.680 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 21:59:00.047 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 22:00:24.316 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 22:06:31.663 LabApp] Starting buffering for 1b98319a-829d-4f95-a219-efb948e91f6d:c80a546558d9c6cfb985d656c32f41b8
+[I 22:06:31.663 LabApp] Starting buffering for 82a91a80-b219-4c0d-8ef5-e3af542112fa:569d4b57387fd916f6a4a9478bf4065e
+[I 22:06:31.664 LabApp] Starting buffering for 0f9a5bd9-3f5d-4186-8663-b722f846c1bf:113e61fa163aca425d9b5dfb3c47a93a
+[W 23:42:12.550 LabApp] Could not determine jupyterlab build status without nodejs
+[I 23:42:13.845 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 23:42:14.265 LabApp] Starting buffering for 1b98319a-829d-4f95-a219-efb948e91f6d:b87c11b498001d92e736f908e52ff124
+[I 23:42:16.318 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 23:42:20.176 LabApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 23:44:42.733 LabApp] Saving file at /models/ctmmodel.py
+[I 00:26:59.798 LabApp] EOF on FD 50; stopping reading
+[I 00:26:59.898 LabApp] Terminal 1 closed
+Websocket closed
+[I 00:37:03.405 LabApp] Starting buffering for 1b98319a-829d-4f95-a219-efb948e91f6d:94f3ca221b78abc6a52de1f9951dfd43
+[I 08:56:29.294 LabApp] 302 GET / (::1) 0.55ms
+[W 08:56:30.179 LabApp] Could not determine jupyterlab build status without nodejs
+[I 08:56:30.488 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 08:56:30.888 LabApp] Starting buffering for 1b98319a-829d-4f95-a219-efb948e91f6d:b66bc8a719a8d93eb72750cde7165c55
+[I 08:56:32.576 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[W 08:56:34.288 LabApp] Notebook 04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb is not trusted
+[I 08:56:35.431 LabApp] Adapting to protocol v5.1 for kernel 82a91a80-b219-4c0d-8ef5-e3af542112fa
+[I 08:58:42.857 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 09:05:05.212 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 09:05:10.667 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/3 - CTM.ipynb
+[I 09:09:48.782 LabApp] Creating new file in /utils
+[I 09:10:04.529 LabApp] Saving file at /utils/array.py
