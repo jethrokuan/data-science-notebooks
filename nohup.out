@@ -358,3 +358,234 @@ Websocket closed
 [I 13:56:30.101 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
 [I 13:56:40.058 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
 [I 13:56:50.065 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:57:00.088 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:57:10.064 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:57:20.065 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:57:30.060 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:57:40.053 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:57:50.074 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:58:00.055 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:58:10.065 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:58:20.042 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:58:30.058 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:58:40.053 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:58:50.047 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:59:00.054 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:59:10.058 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:59:20.055 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:59:30.045 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:59:40.054 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 13:59:50.044 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 14:00:00.046 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 14:00:10.041 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 14:00:20.071 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 14:00:30.145 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 14:00:40.049 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 14:00:50.058 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 14:01:00.149 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[W 14:01:07.423 LabApp] Notebook 04 - Topic Modeling (UROP)/1 - LDA Model.ipynb is not trusted
+[I 14:01:08.417 LabApp] Kernel started: bd0c549e-2699-4d40-97b2-ed0ccfac0b6d
+[I 14:01:08.990 LabApp] Adapting to protocol v5.1 for kernel bd0c549e-2699-4d40-97b2-ed0ccfac0b6d
+[I 14:01:09.124 LabApp] Adapting to protocol v5.1 for kernel bd0c549e-2699-4d40-97b2-ed0ccfac0b6d
+[I 14:01:22.565 LabApp] Kernel started: 784d4a91-c0c0-4f17-8601-66b7cfe9cbde
+[I 14:01:22.948 LabApp] Adapting to protocol v5.1 for kernel 784d4a91-c0c0-4f17-8601-66b7cfe9cbde
+[I 14:01:46.900 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/1 - LDA.ipynb
+[I 14:11:33.229 LabApp] Kernel started: 5f1d8a6a-c714-4551-821c-5db7773cf105
+[I 14:11:33.609 LabApp] Adapting to protocol v5.1 for kernel 5f1d8a6a-c714-4551-821c-5db7773cf105
+[I 14:11:46.440 LabApp] Kernel interrupted: 784d4a91-c0c0-4f17-8601-66b7cfe9cbde
+[I 14:35:06.330 LabApp] Saving file at /04 - Topic Modeling (UROP)/nips-papers/2 - DTM.ipynb
+[I 15:33:04.494 LabApp] Starting buffering for 784d4a91-c0c0-4f17-8601-66b7cfe9cbde:75f7794a57d2348b64b10226f12e390b
+[I 15:33:04.494 LabApp] Starting buffering for 5f1d8a6a-c714-4551-821c-5db7773cf105:60a713ca1c09ae3597fe60a91a40f77e
+[I 15:33:04.563 LabApp] Starting buffering for bd0c549e-2699-4d40-97b2-ed0ccfac0b6d:04bc274fe991761ac70a6dbdb9d3ce63
+[I 15:33:04.567 LabApp] Starting buffering for 1b98319a-829d-4f95-a219-efb948e91f6d:6b51e5b7049099942b59d2b648f495a3
+[I 22:34:58.963 LabApp] 302 GET / (::1) 0.31ms
+[I 22:34:59.025 LabApp] 302 GET /lab? (::1) 0.66ms
+[W 22:35:04.095 LabApp] Forbidden
+[W 22:35:04.096 LabApp] 403 GET /api/sessions?1521210642254 (::1) 0.60ms referer=http://localhost:8888/lab
+[W 22:35:04.096 LabApp] Forbidden
+[W 22:35:04.096 LabApp] 403 GET /api/terminals?1521210642255 (::1) 0.39ms referer=http://localhost:8888/lab
+[I 22:35:04.967 LabApp] 302 POST /login?next=%2Flab%3F (::1) 0.70ms
+[W 22:35:07.333 LabApp] Could not determine jupyterlab build status without nodejs
+[I 22:35:08.182 LabApp] Adapting to protocol v5.1 for kernel 5f1d8a6a-c714-4551-821c-5db7773cf105
+[W 22:35:08.183 LabApp] 404 GET /api/contents/work/data/radar?1521210646339 (::1): No such file or directory: work/data/radar
+[W 22:35:08.183 LabApp] No such file or directory: work/data/radar
+[W 22:35:08.184 LabApp] 404 GET /api/contents/work/data/radar?1521210646339 (::1) 0.70ms referer=http://localhost:8888/lab?
+[W 22:35:08.196 LabApp] 404 GET /api/contents/work/Untitled.ipynb?content=0&1521210646345 (::1): No such file or directory: work/Untitled.ipynb
+[W 22:35:08.196 LabApp] No such file or directory: work/Untitled.ipynb
+[W 22:35:08.196 LabApp] 404 GET /api/contents/work/Untitled.ipynb?content=0&1521210646345 (::1) 0.54ms referer=http://localhost:8888/lab?
+[I 22:35:08.823 LabApp] Starting buffering for 5f1d8a6a-c714-4551-821c-5db7773cf105:91952e939c7bd3d0f1111d33b316da04
+[W 22:35:25.447 LabApp] 404 GET /api/contents/work/Untitled.ipynb?content=0&1521210663361 (::1): No such file or directory: work/Untitled.ipynb
+[W 22:35:25.448 LabApp] No such file or directory: work/Untitled.ipynb
+[W 22:35:25.448 LabApp] 404 GET /api/contents/work/Untitled.ipynb?content=0&1521210663361 (::1) 0.74ms referer=http://localhost:8888/lab
+[W 22:35:25.475 LabApp] 403 PUT /api/contents/work/Untitled.ipynb?1521210663618 (::1): '_xsrf' argument missing from POST
+[W 22:35:25.475 LabApp] '_xsrf' argument missing from POST
+[W 22:35:25.476 LabApp] 403 PUT /api/contents/work/Untitled.ipynb?1521210663618 (::1) 10.92ms referer=http://localhost:8888/lab
+[W 22:35:59.221 LabApp] 404 GET /api/contents/work/data/radar?content=1&1521210697372 (::1): No such file or directory: work/data/radar
+[W 22:35:59.221 LabApp] No such file or directory: work/data/radar
+[W 22:35:59.221 LabApp] 404 GET /api/contents/work/data/radar?content=1&1521210697372 (::1) 0.72ms referer=http://localhost:8888/lab
+[W 22:37:25.250 LabApp] 404 GET /api/contents/work/Untitled.ipynb?content=0&1521210783410 (::1): No such file or directory: work/Untitled.ipynb
+[W 22:37:25.250 LabApp] No such file or directory: work/Untitled.ipynb
+[W 22:37:25.250 LabApp] 404 GET /api/contents/work/Untitled.ipynb?content=0&1521210783410 (::1) 0.72ms referer=http://localhost:8888/lab
+[W 22:37:25.271 LabApp] 403 PUT /api/contents/work/Untitled.ipynb?1521210783419 (::1): '_xsrf' argument missing from POST
+[W 22:37:25.271 LabApp] '_xsrf' argument missing from POST
+[W 22:37:25.272 LabApp] 403 PUT /api/contents/work/Untitled.ipynb?1521210783419 (::1) 8.97ms referer=http://localhost:8888/lab
+[W 22:37:39.257 LabApp] 404 GET /api/contents/work/data/radar?content=1&1521210797417 (::1): No such file or directory: work/data/radar
+[W 22:37:39.257 LabApp] No such file or directory: work/data/radar
+[W 22:37:39.258 LabApp] 404 GET /api/contents/work/data/radar?content=1&1521210797417 (::1) 0.70ms referer=http://localhost:8888/lab
+[I 01:01:31.397 LabApp] 302 GET / (::1) 0.28ms
+[W 01:01:35.250 LabApp] Could not determine jupyterlab build status without nodejs
+[I 01:01:35.556 LabApp] Adapting to protocol v5.1 for kernel 5f1d8a6a-c714-4551-821c-5db7773cf105
+[I 01:01:35.872 LabApp] Starting buffering for 5f1d8a6a-c714-4551-821c-5db7773cf105:1ad6b3b90add246ada75a0131227e58f
+[W 01:01:36.061 LabApp] Notebook 04 - Topic Modeling (UROP)/1 - LDA Model.ipynb is not trusted
+[I 01:01:38.340 LabApp] Adapting to protocol v5.1 for kernel bd0c549e-2699-4d40-97b2-ed0ccfac0b6d
+[I 01:01:39.077 LabApp] Adapting to protocol v5.1 for kernel 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 01:01:39.078 LabApp] Discarding 10 buffered messages for 1b98319a-829d-4f95-a219-efb948e91f6d:6b51e5b7049099942b59d2b648f495a3
+[I 01:01:39.316 LabApp] Adapting to protocol v5.1 for kernel 784d4a91-c0c0-4f17-8601-66b7cfe9cbde
+[I 01:01:39.520 LabApp] Adapting to protocol v5.1 for kernel 5f1d8a6a-c714-4551-821c-5db7773cf105
+[I 01:01:50.735 LabApp] Kernel shutdown: 1b98319a-829d-4f95-a219-efb948e91f6d
+[I 01:01:51.342 LabApp] Kernel shutdown: 5f1d8a6a-c714-4551-821c-5db7773cf105
+[I 01:01:51.747 LabApp] Kernel shutdown: 784d4a91-c0c0-4f17-8601-66b7cfe9cbde
+[I 01:01:51.951 LabApp] Kernel shutdown: bd0c549e-2699-4d40-97b2-ed0ccfac0b6d
+[I 01:01:51.964 LabApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 01:02:36.385 LabApp] Creating new notebook in /04 - Topic Modeling (UROP)/nips-papers
+[I 01:02:37.079 LabApp] Kernel started: afe4288f-2387-4044-841d-5cd66966074d
+[I 01:02:37.624 LabApp] Adapting to protocol v5.1 for kernel afe4288f-2387-4044-841d-5cd66966074d
+2018-03-17 01:09:42.070031: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2018-03-17 01:09:42.070061: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2018-03-17 01:09:42.070066: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2018-03-17 01:09:42.070070: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2018-03-17 01:09:42.070073: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 01:17:15.185 LabApp] Kernel shutdown: afe4288f-2387-4044-841d-5cd66966074d
+[W 01:17:15.235 LabApp] delete /04 - Topic Modeling (UROP)/nips-papers/Untitled.ipynb
+[I 01:17:20.680 LabApp] Creating new directory in /
+[I 01:17:35.238 LabApp] Creating new notebook in /05 - Terraweather
+[I 01:17:35.920 LabApp] Kernel started: d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 01:17:36.280 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[W 01:27:06.283 LabApp] WebSocket ping timeout after 99833 ms.
+[I 01:27:11.288 LabApp] Starting buffering for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:e8254c102e50c6a2560b6d8f7bbca449
+[W 01:27:22.291 LabApp] WebSocket ping timeout after 103517 ms.
+Websocket closed
+[I 02:17:48.448 LabApp] 302 GET / (::1) 1.05ms
+[W 02:18:05.474 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 02:18:31.016 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[W 02:18:34.123 LabApp] Notebook 04 - Topic Modeling (UROP)/1 - LDA Model.ipynb is not trusted
+[I 02:18:40.369 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:18:46.889 LabApp] Starting buffering for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:d767c724ddeb9c8f6b6b292fb4dc5bd1
+Websocket closed
+[I 02:18:49.074 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:18:49.111 LabApp] Starting buffering for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:8cc1f8274c89acecd3557381ed80e797
+[I 02:18:51.827 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:18:51.827 LabApp] Restoring connection for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:8cc1f8274c89acecd3557381ed80e797
+[I 02:18:52.407 LabApp] Starting buffering for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:8cc1f8274c89acecd3557381ed80e797
+[I 02:18:57.026 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:18:59.688 LabApp] Starting buffering for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:d767c724ddeb9c8f6b6b292fb4dc5bd1
+[W 02:19:10.899 LabApp] Could not determine jupyterlab build status without nodejs
+[I 02:19:26.167 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:19:27.987 LabApp] Starting buffering for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:a89d2b44e5ff3ea5624323d3e1e22acc
+[I 02:19:35.127 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:19:35.128 LabApp] Restoring connection for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:a89d2b44e5ff3ea5624323d3e1e22acc
+[I 02:19:35.128 LabApp] Starting buffering for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:a89d2b44e5ff3ea5624323d3e1e22acc
+[W 02:19:52.690 LabApp] Could not determine jupyterlab build status without nodejs
+[I 02:20:12.300 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:20:20.378 LabApp] Starting buffering for d98f91da-8cd8-4c56-94cf-b8d31efc3cab:9dcbf25222a07e45769d1b93bd219ebe
+[I 02:20:22.793 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:20:53.087 LabApp] Adapting to protocol v5.1 for kernel d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:21:16.784 LabApp] EOF on FD 32; stopping reading
+[I 02:21:16.884 LabApp] Terminal 1 closed
+[I 02:21:27.647 LabApp] Kernel started: 4fe86265-3b41-4978-ac00-9d062d714a76
+[I 02:21:28.120 LabApp] Adapting to protocol v5.1 for kernel 4fe86265-3b41-4978-ac00-9d062d714a76
+[I 02:22:14.283 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 02:22:46.143 LabApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 02:37:12.859 LabApp] Kernel interrupted: d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:37:24.710 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 02:37:29.771 LabApp] Kernel started: 8b23f301-4dd6-4718-9aab-09ecaaedd5e1
+[I 02:37:30.173 LabApp] Kernel shutdown: d98f91da-8cd8-4c56-94cf-b8d31efc3cab
+[I 02:37:30.308 LabApp] Adapting to protocol v5.1 for kernel 8b23f301-4dd6-4718-9aab-09ecaaedd5e1
+[I 02:37:30.404 LabApp] Adapting to protocol v5.1 for kernel 8b23f301-4dd6-4718-9aab-09ecaaedd5e1
+[I 02:37:33.152 LabApp] Kernel shutdown: 8b23f301-4dd6-4718-9aab-09ecaaedd5e1
+[I 02:37:35.796 LabApp] Kernel started: 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 02:37:36.146 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 02:42:28.663 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 03:05:59.884 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 03:22:02.165 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 03:25:18.554 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[W 03:27:06.148 LabApp] WebSocket ping timeout after 119962 ms.
+[I 03:27:11.150 LabApp] Starting buffering for 609c994b-0c6e-4644-8ce7-80caee598e62:c80b167e7c8941dcedd277ed97235cdf
+[W 03:27:16.319 LabApp] WebSocket ping timeout after 119960 ms.
+Websocket closed
+[W 03:27:22.795 LabApp] WebSocket ping timeout after 119962 ms.
+[W 03:27:28.125 LabApp] WebSocket ping timeout after 119963 ms.
+[I 03:27:33.126 LabApp] Starting buffering for 4fe86265-3b41-4978-ac00-9d062d714a76:021bb82ed400764cde27923e97f64a12
+[I 10:21:35.264 LabApp] 302 GET / (::1) 0.62ms
+[W 10:21:36.191 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:21:36.590 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 10:21:36.820 LabApp] Starting buffering for 609c994b-0c6e-4644-8ce7-80caee598e62:42df95cb45dc8f58637fbf7344edcbf2
+[I 10:21:39.211 LabApp] Adapting to protocol v5.1 for kernel 4fe86265-3b41-4978-ac00-9d062d714a76
+[I 10:21:50.506 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 10:36:52.643 LabApp] Kernel interrupted: 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 10:36:52.951 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 10:46:21.551 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 10:47:56.810 LabApp] 302 GET / (::1) 0.92ms
+[I 10:47:57.240 LabApp] 302 GET /lab (::1) 1.60ms
+[I 10:48:01.651 LabApp] 302 GET / (::1) 0.91ms
+[I 10:48:02.586 LabApp] 302 GET /lab? (::1) 1.54ms
+[I 10:48:04.416 LabApp] 302 GET / (::1) 0.91ms
+[I 10:48:05.079 LabApp] 302 GET /lab (::1) 1.47ms
+[I 10:48:35.952 LabApp] 302 POST /login?next=%2Flab (::1) 2.55ms
+[I 10:48:47.641 LabApp] 302 GET / (::1) 0.93ms
+[I 10:49:19.225 LabApp] 302 GET / (::1) 0.92ms
+[I 10:49:27.232 LabApp] 302 GET /lab? (::1) 1.63ms
+[W 10:49:30.366 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:49:33.533 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 10:49:47.022 LabApp] 302 GET / (::1) 0.91ms
+[I 10:49:47.633 LabApp] 302 GET /lab? (::1) 1.57ms
+[I 10:50:12.620 LabApp] 302 POST /login?next=%2Flab%3F (::1) 2.56ms
+[W 10:51:20.519 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:51:22.351 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 10:55:28.262 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 11:02:53.822 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:05:40.865 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:05:57.052 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:08:37.388 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[W 11:10:13.000 LabApp] Could not determine jupyterlab build status without nodejs
+[I 11:10:14.877 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 11:10:20.198 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 11:14:21.693 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:15:09.879 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:16:48.674 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:28:33.033 LabApp] Kernel interrupted: 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 11:29:59.891 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:30:41.833 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:34:58.226 LabApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 11:35:31.157 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:56:27.926 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+[I 11:57:51.755 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
+Websocket closed
+[I 11:57:52.849 LabApp] Starting buffering for 4fe86265-3b41-4978-ac00-9d062d714a76:226f0c90123f9d333c855f2e7966f65c
+[I 12:10:03.542 LabApp] Starting buffering for 609c994b-0c6e-4644-8ce7-80caee598e62:32c05a2b4fa3bf2e31d5e4b5d6bc5559
+[I 12:12:23.690 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[W 12:24:23.693 LabApp] WebSocket ping timeout after 119390 ms.
+[I 12:24:28.695 LabApp] Starting buffering for 609c994b-0c6e-4644-8ce7-80caee598e62:05f485bd0cfec5d4ebe3d93b143210ec
+[I 12:25:34.246 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[W 12:28:34.248 LabApp] WebSocket ping timeout after 119427 ms.
+[I 12:28:39.250 LabApp] Starting buffering for 609c994b-0c6e-4644-8ce7-80caee598e62:f5c8013c0609b4bb8b613959e5c41714
+[I 17:39:47.503 LabApp] 302 GET / (::1) 0.58ms
+[I 17:39:47.924 LabApp] 302 GET /lab (::1) 3.86ms
+[I 17:58:27.532 LabApp] 302 GET / (::1) 1.02ms
+[I 17:58:28.120 LabApp] 302 GET /lab (::1) 1.62ms
+[I 18:01:42.893 LabApp] 302 GET / (::1) 1.00ms
+[W 18:01:45.845 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 18:01:46.479 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 18:01:47.830 LabApp] Starting buffering for 609c994b-0c6e-4644-8ce7-80caee598e62:00f2fa4c93f2d33ccbc242669b75f0df
+[I 18:01:49.679 LabApp] Adapting to protocol v5.1 for kernel 609c994b-0c6e-4644-8ce7-80caee598e62
+[I 18:08:07.735 LabApp] Saving file at /05 - Terraweather/Terraweather.ipynb
