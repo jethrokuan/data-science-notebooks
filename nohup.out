@@ -1,0 +1,273 @@
+[I 12:23:40.927 LabApp] JupyterLab beta preview extension loaded from /home/jethro/anaconda3/envs/urop/lib/python3.6/site-packages/jupyterlab
+[I 12:23:40.927 LabApp] JupyterLab application directory is /home/jethro/anaconda3/envs/urop/share/jupyter/lab
+[I 12:23:40.931 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 12:23:40.931 LabApp] 0 active kernels
+[I 12:23:40.931 LabApp] The Jupyter Notebook is running at:
+[I 12:23:40.931 LabApp] http://localhost:8888/
+[I 12:23:40.931 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:23:44.682 LabApp] 302 GET / (::1) 1.30ms
+[W 12:23:45.187 LabApp] Could not determine jupyterlab build status without nodejs
+[I 12:23:46.922 LabApp] Kernel started: 0202aa6c-5bf6-4850-b5e6-9cd98d8a4828
+[I 12:23:46.929 LabApp] Kernel started: 6184e779-e8c1-47c2-ab6b-572729baf742
+[I 12:23:46.937 LabApp] Kernel started: 47f9ffa2-639b-4c67-aa46-b5f567de3d9c
+[I 12:23:47.279 LabApp] Adapting to protocol v5.1 for kernel 0202aa6c-5bf6-4850-b5e6-9cd98d8a4828
+[I 12:23:47.288 LabApp] Adapting to protocol v5.1 for kernel 0202aa6c-5bf6-4850-b5e6-9cd98d8a4828
+[I 12:23:47.301 LabApp] Adapting to protocol v5.1 for kernel 6184e779-e8c1-47c2-ab6b-572729baf742
+[I 12:23:47.309 LabApp] Adapting to protocol v5.1 for kernel 6184e779-e8c1-47c2-ab6b-572729baf742
+[I 12:23:47.318 LabApp] Adapting to protocol v5.1 for kernel 47f9ffa2-639b-4c67-aa46-b5f567de3d9c
+[I 12:23:47.347 LabApp] Adapting to protocol v5.1 for kernel 47f9ffa2-639b-4c67-aa46-b5f567de3d9c
+[I 12:23:50.162 LabApp] Kernel shutdown: 6184e779-e8c1-47c2-ab6b-572729baf742
+[I 12:23:50.791 LabApp] Kernel shutdown: 47f9ffa2-639b-4c67-aa46-b5f567de3d9c
+[I 12:23:54.712 LabApp] Kernel started: 0db2e048-e5ec-4672-b683-2d2e25ac771d
+[I 12:23:55.109 LabApp] Adapting to protocol v5.1 for kernel 0db2e048-e5ec-4672-b683-2d2e25ac771d
+[I 12:24:02.034 LabApp] Starting buffering for 0db2e048-e5ec-4672-b683-2d2e25ac771d:9c3e1de0863858841f1ec331a2753089
+[I 12:24:02.241 LabApp] Kernel restarted: 0db2e048-e5ec-4672-b683-2d2e25ac771d
+[I 12:24:02.652 LabApp] Adapting to protocol v5.1 for kernel 0db2e048-e5ec-4672-b683-2d2e25ac771d
+[I 12:24:02.652 LabApp] Restoring connection for 0db2e048-e5ec-4672-b683-2d2e25ac771d:9c3e1de0863858841f1ec331a2753089
+[I 12:24:02.652 LabApp] Replaying 3 buffered messages
+[I 12:30:22.418 LabApp] Kernel interrupted: 0db2e048-e5ec-4672-b683-2d2e25ac771d
+[C 12:30:52.174 LabApp] received signal 15, stopping
+[I 12:30:52.174 LabApp] Shutting down 2 kernels
+[I 12:30:52.375 LabApp] Kernel shutdown: 0202aa6c-5bf6-4850-b5e6-9cd98d8a4828
+[I 12:30:58.565 LabApp] The port 8888 is already in use, trying another port.
+[I 12:30:58.571 LabApp] JupyterLab beta preview extension loaded from /home/jethro/anaconda3/envs/urop/lib/python3.6/site-packages/jupyterlab
+[I 12:30:58.571 LabApp] JupyterLab application directory is /home/jethro/anaconda3/envs/urop/share/jupyter/lab
+[I 12:30:58.575 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 12:30:58.575 LabApp] 0 active kernels
+[I 12:30:58.575 LabApp] The Jupyter Notebook is running at:
+[I 12:30:58.575 LabApp] http://localhost:8889/
+[I 12:30:58.575 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:30:58.647 LabApp] Kernel shutdown: 0db2e048-e5ec-4672-b683-2d2e25ac771d
+[I 12:31:10.768 LabApp] JupyterLab beta preview extension loaded from /home/jethro/anaconda3/envs/urop/lib/python3.6/site-packages/jupyterlab
+[I 12:31:10.768 LabApp] JupyterLab application directory is /home/jethro/anaconda3/envs/urop/share/jupyter/lab
+[I 12:31:10.772 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 12:31:10.772 LabApp] 0 active kernels
+[I 12:31:10.772 LabApp] The Jupyter Notebook is running at:
+[I 12:31:10.772 LabApp] http://localhost:8888/
+[I 12:31:10.772 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:31:13.011 LabApp] Could not determine jupyterlab build status without nodejs
+[I 12:31:14.720 LabApp] Kernel started: d37c1a18-51a8-4042-8ae6-55336fd0b8a6
+[I 12:31:14.728 LabApp] Kernel started: 3e0b8f37-9ae2-4183-9e8c-b89dda777de6
+[I 12:31:14.735 LabApp] Kernel started: 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 12:31:15.138 LabApp] Adapting to protocol v5.1 for kernel d37c1a18-51a8-4042-8ae6-55336fd0b8a6
+[I 12:31:15.147 LabApp] Adapting to protocol v5.1 for kernel d37c1a18-51a8-4042-8ae6-55336fd0b8a6
+[I 12:31:15.164 LabApp] Adapting to protocol v5.1 for kernel 3e0b8f37-9ae2-4183-9e8c-b89dda777de6
+[I 12:31:15.173 LabApp] Adapting to protocol v5.1 for kernel 3e0b8f37-9ae2-4183-9e8c-b89dda777de6
+[I 12:31:15.186 LabApp] Adapting to protocol v5.1 for kernel 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 12:31:15.198 LabApp] Adapting to protocol v5.1 for kernel 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 12:31:20.961 LabApp] Starting buffering for 7fafd858-098a-49a6-85c4-8489aa772c4f:2f31f99e75856ad249b27e33a1bdcd50
+[I 12:31:21.169 LabApp] Kernel restarted: 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 12:31:21.648 LabApp] Adapting to protocol v5.1 for kernel 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 12:31:21.648 LabApp] Discarding 5 buffered messages for 7fafd858-098a-49a6-85c4-8489aa772c4f:2f31f99e75856ad249b27e33a1bdcd50
+[I 12:31:21.661 LabApp] Adapting to protocol v5.1 for kernel 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 12:31:24.287 LabApp] Starting buffering for 7fafd858-098a-49a6-85c4-8489aa772c4f:b6338ced6a29d5301c0103de63b8105e
+[I 12:31:24.494 LabApp] Kernel restarted: 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 12:31:24.992 LabApp] Adapting to protocol v5.1 for kernel 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 12:31:24.993 LabApp] Restoring connection for 7fafd858-098a-49a6-85c4-8489aa772c4f:b6338ced6a29d5301c0103de63b8105e
+[I 12:31:24.993 LabApp] Replaying 3 buffered messages
+[I 12:31:25.021 LabApp] Adapting to protocol v5.1 for kernel 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 13:10:47.734 LabApp] Starting buffering for 7fafd858-098a-49a6-85c4-8489aa772c4f:b6338ced6a29d5301c0103de63b8105e
+[I 13:10:54.096 LabApp] Kernel restarted: 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 13:10:54.501 LabApp] Adapting to protocol v5.1 for kernel 7fafd858-098a-49a6-85c4-8489aa772c4f
+[I 13:10:54.502 LabApp] Restoring connection for 7fafd858-098a-49a6-85c4-8489aa772c4f:b6338ced6a29d5301c0103de63b8105e
+[I 13:10:54.502 LabApp] Replaying 36 buffered messages
+[I 13:10:54.515 LabApp] Adapting to protocol v5.1 for kernel 7fafd858-098a-49a6-85c4-8489aa772c4f
+[W 13:43:54.503 LabApp] WebSocket ping timeout after 119944 ms.
+[W 13:43:54.516 LabApp] WebSocket ping timeout after 119955 ms.
+[I 13:43:59.518 LabApp] Starting buffering for 7fafd858-098a-49a6-85c4-8489aa772c4f:2f31f99e75856ad249b27e33a1bdcd50
+[W 13:44:15.139 LabApp] WebSocket ping timeout after 119952 ms.
+[W 13:44:15.148 LabApp] WebSocket ping timeout after 119958 ms.
+[W 13:44:15.166 LabApp] WebSocket ping timeout after 119976 ms.
+[I 13:44:20.149 LabApp] Starting buffering for d37c1a18-51a8-4042-8ae6-55336fd0b8a6:520380c229366f6631fac96255f449c7
+[I 13:44:20.167 LabApp] Starting buffering for 3e0b8f37-9ae2-4183-9e8c-b89dda777de6:2d37d4c1d4332d320d670cf949102ca0
+[C 15:42:57.283 LabApp] received signal 15, stopping
+[I 15:42:57.285 LabApp] Shutting down 3 kernels
+[I 15:42:57.487 LabApp] Kernel shutdown: d37c1a18-51a8-4042-8ae6-55336fd0b8a6
+[I 15:42:57.488 LabApp] Kernel shutdown: 3e0b8f37-9ae2-4183-9e8c-b89dda777de6
+[I 15:42:57.488 LabApp] Kernel shutdown: 7fafd858-098a-49a6-85c4-8489aa772c4f
+[C 15:43:00.475 LabApp] received signal 15, stopping
+[I 15:43:00.477 LabApp] Shutting down 0 kernels
+[I 15:43:14.221 LabApp] JupyterLab beta preview extension loaded from /home/jethro/anaconda3/envs/urop/lib/python3.6/site-packages/jupyterlab
+[I 15:43:14.221 LabApp] JupyterLab application directory is /home/jethro/anaconda3/envs/urop/share/jupyter/lab
+[I 15:43:14.225 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 15:43:14.225 LabApp] 0 active kernels
+[I 15:43:14.225 LabApp] The Jupyter Notebook is running at:
+[I 15:43:14.225 LabApp] http://localhost:8888/
+[I 15:43:14.225 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 15:44:05.715 LabApp] 302 GET / (::1) 0.69ms
+[W 15:44:06.671 LabApp] Could not determine jupyterlab build status without nodejs
+[W 15:44:07.066 LabApp] 404 GET /api/contents/06%20-CS3244%20Project/Deep%20Reinforced%20Abstractive%20Summarisation/sumy.ipynb?content=0&1522136384143 (::1): No such file or directory: 06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/sumy.ipynb
+[W 15:44:07.066 LabApp] No such file or directory: 06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/sumy.ipynb
+[W 15:44:07.067 LabApp] 404 GET /api/contents/06%20-CS3244%20Project/Deep%20Reinforced%20Abstractive%20Summarisation/sumy.ipynb?content=0&1522136384143 (::1) 2.55ms referer=http://localhost:8888/lab?
+[I 15:44:09.265 LabApp] Kernel started: fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 15:44:09.273 LabApp] Kernel started: cbc67c17-4817-40f2-a561-46b1871f319c
+[I 15:44:10.275 LabApp] Adapting to protocol v5.1 for kernel fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 15:44:10.700 LabApp] Adapting to protocol v5.1 for kernel fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 15:44:10.850 LabApp] Adapting to protocol v5.1 for kernel cbc67c17-4817-40f2-a561-46b1871f319c
+[I 15:44:11.185 LabApp] Adapting to protocol v5.1 for kernel cbc67c17-4817-40f2-a561-46b1871f319c
+[I 15:44:21.455 LabApp] Starting buffering for fa8d8a02-cb1b-4d97-887a-322994fbd72e:b9721dc7ba13f4021ec81d63ece4721f
+[I 15:44:21.669 LabApp] Kernel restarted: fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 15:44:22.094 LabApp] Adapting to protocol v5.1 for kernel fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 15:44:22.095 LabApp] Restoring connection for fa8d8a02-cb1b-4d97-887a-322994fbd72e:b9721dc7ba13f4021ec81d63ece4721f
+[I 15:44:22.095 LabApp] Replaying 6 buffered messages
+[I 16:08:31.940 LabApp] Starting buffering for cbc67c17-4817-40f2-a561-46b1871f319c:860214e0d76170fd59657272bafce486
+[I 16:08:31.942 LabApp] Starting buffering for fa8d8a02-cb1b-4d97-887a-322994fbd72e:b9721dc7ba13f4021ec81d63ece4721f
+[W 16:08:35.701 LabApp] Could not determine jupyterlab build status without nodejs
+[I 16:08:38.263 LabApp] Adapting to protocol v5.1 for kernel cbc67c17-4817-40f2-a561-46b1871f319c
+[I 16:08:39.441 LabApp] Starting buffering for cbc67c17-4817-40f2-a561-46b1871f319c:87352444a7c20ebc9a4264992ac82dfa
+[I 16:08:44.678 LabApp] Adapting to protocol v5.1 for kernel fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 16:08:44.678 LabApp] Discarding 90 buffered messages for fa8d8a02-cb1b-4d97-887a-322994fbd72e:b9721dc7ba13f4021ec81d63ece4721f
+[I 16:08:45.201 LabApp] Adapting to protocol v5.1 for kernel cbc67c17-4817-40f2-a561-46b1871f319c
+[I 16:08:49.327 LabApp] Starting buffering for fa8d8a02-cb1b-4d97-887a-322994fbd72e:a592ce3f7068526679a7296f157f6509
+[I 16:08:55.660 LabApp] Kernel restarted: fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 16:08:56.127 LabApp] Adapting to protocol v5.1 for kernel fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 16:08:56.128 LabApp] Restoring connection for fa8d8a02-cb1b-4d97-887a-322994fbd72e:a592ce3f7068526679a7296f157f6509
+[I 16:08:56.128 LabApp] Replaying 36 buffered messages
+[I 16:15:24.177 LabApp] Creating new notebook in /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation
+[I 16:15:24.960 LabApp] Kernel started: 0196a14b-3e88-4bd3-b77f-aac79bafdc91
+[I 16:15:25.299 LabApp] Adapting to protocol v5.1 for kernel 0196a14b-3e88-4bd3-b77f-aac79bafdc91
+[I 16:17:43.190 LabApp] Kernel shutdown: 0196a14b-3e88-4bd3-b77f-aac79bafdc91
+[W 16:17:43.266 LabApp] delete /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/Untitled.ipynb
+[C 16:18:43.099 LabApp] received signal 15, stopping
+[I 16:18:43.100 LabApp] Shutting down 2 kernels
+[I 16:18:46.674 LabApp] The port 8888 is already in use, trying another port.
+[I 16:18:46.680 LabApp] JupyterLab beta preview extension loaded from /home/jethro/anaconda3/envs/urop/lib/python3.6/site-packages/jupyterlab
+[I 16:18:46.680 LabApp] JupyterLab application directory is /home/jethro/anaconda3/envs/urop/share/jupyter/lab
+[I 16:18:46.685 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 16:18:46.685 LabApp] 0 active kernels
+[I 16:18:46.685 LabApp] The Jupyter Notebook is running at:
+[I 16:18:46.685 LabApp] http://localhost:8889/
+[I 16:18:46.685 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:18:49.418 LabApp] Kernel shutdown: fa8d8a02-cb1b-4d97-887a-322994fbd72e
+[I 16:18:49.418 LabApp] Kernel shutdown: cbc67c17-4817-40f2-a561-46b1871f319c
+[I 16:19:01.070 LabApp] JupyterLab beta preview extension loaded from /home/jethro/anaconda3/envs/urop/lib/python3.6/site-packages/jupyterlab
+[I 16:19:01.070 LabApp] JupyterLab application directory is /home/jethro/anaconda3/envs/urop/share/jupyter/lab
+[I 16:19:01.075 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 16:19:01.075 LabApp] 0 active kernels
+[I 16:19:01.075 LabApp] The Jupyter Notebook is running at:
+[I 16:19:01.075 LabApp] http://localhost:8888/
+[I 16:19:01.075 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:19:08.965 LabApp] received signal 15, stopping
+[I 16:19:08.966 LabApp] Shutting down 0 kernels
+[C 16:19:11.299 LabApp] received signal 15, stopping
+[I 16:19:11.301 LabApp] Shutting down 0 kernels
+[I 16:19:15.971 LabApp] JupyterLab beta preview extension loaded from /home/jethro/anaconda3/envs/urop/lib/python3.6/site-packages/jupyterlab
+[I 16:19:15.971 LabApp] JupyterLab application directory is /home/jethro/anaconda3/envs/urop/share/jupyter/lab
+[I 16:19:15.976 LabApp] Serving notebooks from local directory: /home/jethro/data-science-playground
+[I 16:19:15.976 LabApp] 0 active kernels
+[I 16:19:15.976 LabApp] The Jupyter Notebook is running at:
+[I 16:19:15.976 LabApp] http://localhost:8888/
+[I 16:19:15.976 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:19:25.738 LabApp] Build is up to date
+[I 16:19:37.460 LabApp] Kernel started: 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 16:19:37.638 LabApp] Kernel started: f3f6ea1f-a04c-4e75-b7a2-2e393109bb2f
+[I 16:19:38.027 LabApp] Adapting to protocol v5.1 for kernel 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 16:19:39.640 LabApp] Adapting to protocol v5.1 for kernel 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 16:19:40.546 LabApp] Adapting to protocol v5.1 for kernel f3f6ea1f-a04c-4e75-b7a2-2e393109bb2f
+[I 16:19:40.916 LabApp] Adapting to protocol v5.1 for kernel f3f6ea1f-a04c-4e75-b7a2-2e393109bb2f
+[I 16:19:50.505 LabApp] Starting buffering for 64465819-b7fd-435d-b2d4-0bef4bc4700a:aa3c511813b654e47aec934be447b5be
+[I 16:19:50.730 LabApp] Kernel restarted: 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 16:19:51.199 LabApp] Adapting to protocol v5.1 for kernel 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 16:19:51.200 LabApp] Restoring connection for 64465819-b7fd-435d-b2d4-0bef4bc4700a:aa3c511813b654e47aec934be447b5be
+[I 16:19:51.200 LabApp] Replaying 6 buffered messages
+[I 16:20:01.500 LabApp] Creating new notebook in /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation
+[I 16:20:02.375 LabApp] Kernel started: 48b1e9b4-0477-4d94-966e-33d6a4981f5f
+[I 16:20:02.770 LabApp] Adapting to protocol v5.1 for kernel 48b1e9b4-0477-4d94-966e-33d6a4981f5f
+[I 16:20:24.534 LabApp] Kernel shutdown: 48b1e9b4-0477-4d94-966e-33d6a4981f5f
+[W 16:20:24.601 LabApp] delete /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/Untitled.ipynb
+[I 19:35:04.155 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
+[I 19:35:22.115 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
+[I 19:36:02.482 LabApp] Creating new notebook in /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation
+[I 19:36:03.128 LabApp] Kernel started: e71f426f-4518-4c62-aa6b-095fc1ee141e
+[I 19:36:03.540 LabApp] Adapting to protocol v5.1 for kernel e71f426f-4518-4c62-aa6b-095fc1ee141e
+[I 19:36:06.986 LabApp] Kernel shutdown: e71f426f-4518-4c62-aa6b-095fc1ee141e
+[W 19:36:07.044 LabApp] delete /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/Untitled.ipynb
+[I 19:36:10.106 LabApp] Creating new file in /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation
+[I 19:36:34.157 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/rouge.py
+[I 20:07:06.444 LabApp] Kernel interrupted: 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[W 20:08:14.238 LabApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:08:15.822 LabApp] iopub messages resumed
+[W 20:08:17.926 LabApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:08:19.441 LabApp] iopub messages resumed
+[W 20:08:21.575 LabApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:08:23.124 LabApp] iopub messages resumed
+[W 20:08:25.290 LabApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:08:26.817 LabApp] iopub messages resumed
+[W 20:08:28.914 LabApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:08:30.455 LabApp] iopub messages resumed
+[I 20:12:37.945 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
+[I 20:18:15.174 LabApp] Kernel interrupted: 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 20:21:30.626 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
+[I 20:25:55.509 LabApp] Kernel interrupted: 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 20:38:16.604 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
+[I 20:42:17.753 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
+[I 21:03:06.150 LabApp] Starting buffering for 64465819-b7fd-435d-b2d4-0bef4bc4700a:aa3c511813b654e47aec934be447b5be
+[I 21:03:06.151 LabApp] Starting buffering for f3f6ea1f-a04c-4e75-b7a2-2e393109bb2f:dc57681b5cfdef1d7460c4652d650c05
+[I 08:49:03.059 LabApp] 302 GET / (::1) 0.29ms
+[I 08:49:04.227 LabApp] Adapting to protocol v5.1 for kernel f3f6ea1f-a04c-4e75-b7a2-2e393109bb2f
+[I 08:49:04.303 LabApp] Starting buffering for f3f6ea1f-a04c-4e75-b7a2-2e393109bb2f:2b306c65b283c9d58031c9f4e7286ab6
+[I 08:49:04.912 LabApp] Build is up to date
+[I 08:49:05.765 LabApp] Kernel started: 9594d8d4-f075-4285-b2f4-ee77b4d4833d
+[I 08:49:05.768 LabApp] Adapting to protocol v5.1 for kernel 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 08:49:05.768 LabApp] Discarding 337599 buffered messages for 64465819-b7fd-435d-b2d4-0bef4bc4700a:aa3c511813b654e47aec934be447b5be
+[W 08:49:05.845 LabApp] Got events for closed stream None
+[I 08:49:05.855 LabApp] Kernel started: 03445453-7b66-4e12-a787-59c0723fef1a
+[I 08:49:06.147 LabApp] Adapting to protocol v5.1 for kernel 9594d8d4-f075-4285-b2f4-ee77b4d4833d
+[I 08:49:06.308 LabApp] Adapting to protocol v5.1 for kernel 03445453-7b66-4e12-a787-59c0723fef1a
+[I 08:49:16.987 LabApp] Kernel shutdown: f3f6ea1f-a04c-4e75-b7a2-2e393109bb2f
+[I 08:49:18.590 LabApp] Kernel shutdown: 9594d8d4-f075-4285-b2f4-ee77b4d4833d
+[I 08:49:19.067 LabApp] Kernel shutdown: 03445453-7b66-4e12-a787-59c0723fef1a
+[I 08:49:27.385 LabApp] Starting buffering for 64465819-b7fd-435d-b2d4-0bef4bc4700a:584df1429a4978f6ebb0850e7db0ae51
+[I 08:49:33.710 LabApp] Kernel restarted: 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 08:49:34.173 LabApp] Adapting to protocol v5.1 for kernel 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 08:49:34.174 LabApp] Restoring connection for 64465819-b7fd-435d-b2d4-0bef4bc4700a:584df1429a4978f6ebb0850e7db0ae51
+[I 08:49:34.175 LabApp] Replaying 38 buffered messages
+[I 09:04:18.480 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
+[I 09:37:23.324 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
+[I 09:39:39.571 LabApp] Kernel interrupted: 64465819-b7fd-435d-b2d4-0bef4bc4700a
+[I 09:39:40.600 LabApp] Saving file at /06 -CS3244 Project/Deep Reinforced Abstractive Summarisation/drats.ipynb
